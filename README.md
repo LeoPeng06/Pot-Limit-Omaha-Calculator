@@ -70,6 +70,3 @@ A web application for calculating odds in Pot Limit Omaha poker games. This proj
   - Pydantic
   - Poker-eval (for hand evaluation)
 
-## License
-
-MIT License
